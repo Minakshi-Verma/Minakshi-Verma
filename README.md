@@ -1,4 +1,4 @@
-![Alt text](image/img.jpg?raw=true "Title")
+![Screenshot](screenshot.png)
 
 ### Hi there 👋
 
