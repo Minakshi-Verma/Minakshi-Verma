@@ -27,9 +27,7 @@ Hello, I am Minakshi, a full-stack web developer. I am passionate about computer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minakshi-Verma)](https://github.com/Minakshi-Verma/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minakshi-Verma&layout=compact)](https://github.com/Minakshi-Verma/github-readme-stats)
-
 
 
 **Contact:**
-email: minakshi_12@yahoo.com
+Email: minakshi_12@yahoo.com
