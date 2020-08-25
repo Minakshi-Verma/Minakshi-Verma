@@ -1,4 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 ### Hi there 👋
 
