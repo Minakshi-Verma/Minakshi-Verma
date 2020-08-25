@@ -1,4 +1,4 @@
-![Screenshot](https://miro.medium.com/max/3220/1*lNWDYEPleH38uZtXCQK6wg.png)
+![Screenshot](https://c0.wallpaperflare.com/preview/329/94/555/coffee-women-business-laptop.jpg)
 
 ### Hi there 👋
 
