@@ -1,4 +1,4 @@
-![Screenshot](screenshot.jpg)
+![Screenshot](https://miro.medium.com/max/3220/1*lNWDYEPleH38uZtXCQK6wg.png)
 
 ### Hi there 👋
 
