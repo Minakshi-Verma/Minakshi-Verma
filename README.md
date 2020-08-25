@@ -1,4 +1,4 @@
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](image/img.jpg?raw=true "Title")
 
 ### Hi there 👋
 
