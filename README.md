@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.jpg)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ### Hi there 👋
 
