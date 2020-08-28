@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ### About me: 💬 <br /><br />
  
-Hello, I am Minakshi, a full-stack web developer. I am passionate about computer programming, web designing and everything in its orbit. I can design user interface, bring an app to life by incorporating functionality, or can be your partner in sending data from the backend. I am eager and enthusiastic to learn new technology and implementation. I believe that coding skills and critical thinking will be extremely important in time to come, and I want to be a part of this revolution. I am also an experienced educator with a background in chemistry. In my spare time, you can find me trying palate-satisfying recipes or nurturing my vegetable garden.
+Hello, I am Minakshi, a full-stack web developer. I am passionate about computer programming, web designing and everything in its orbit. I can design user interfaces, bring an app to life by incorporating functionality, or can be your partner in sending data from the backend. I am eager and enthusiastic to learn new technology and implementation. I believe that coding skills and critical thinking will be extremely important in time to come, and I want to be a part of this revolution. I am also an experienced educator with a background in chemistry. In my spare time, you can find me trying palate-satisfying recipes or nurturing my vegetable garden.
+
 
 <br />
 
